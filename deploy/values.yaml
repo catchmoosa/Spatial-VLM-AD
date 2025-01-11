@@ -1,0 +1,12 @@
+deployment:
+  name: spatial-awarness
+  app: spatial-awarness-app
+  replicas: 1
+  image: adnan10101/spre-app
+  tag: test0.0.1
+
+service:
+  type: NodePort
+  name: spatial-awarness-svc
+  port: 7000
+  nodePort: 31268
