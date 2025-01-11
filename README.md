@@ -1,4 +1,4 @@
-# Spatial-VLM-AD
+# Spatial-VLM-Llava
 Code for a spatially aware VLM 
 
 # Application Deployment Guide
